@@ -1,0 +1,7 @@
+.room_list {
+  width: 100px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

@@ -1,0 +1,228 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "numero": 1,
+      "estado_id": 4,
+      "estado_nombre": "No disponible",
+      "comentario": " "
+    },
+    {
+      "id": 2,
+      "numero": 2,
+      "estado_id": 3,
+      "estado_nombre": "Sucia",
+      "comentario": "Comentario de prueba 001"
+    },
+    {
+      "id": 3,
+      "numero": 3,
+      "estado_id": 3,
+      "estado_nombre": "Sucia",
+      "comentario": "Comentario de prueba 02"
+    },
+    {
+      "id": 4,
+      "numero": 4,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 5,
+      "numero": 5,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 6,
+      "numero": 6,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 7,
+      "numero": 7,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 8,
+      "numero": 8,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 9,
+      "numero": 9,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 10,
+      "numero": 10,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 11,
+      "numero": 11,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 12,
+      "numero": 12,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 13,
+      "numero": 13,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 14,
+      "numero": 14,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 15,
+      "numero": 15,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 16,
+      "numero": 16,
+      "estado_id": 2,
+      "estado_nombre": "Ocupada",
+      "comentario": "Comentario de prueba 003"
+    },
+    {
+      "id": 17,
+      "numero": 17,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 18,
+      "numero": 18,
+      "estado_id": 2,
+      "estado_nombre": "Ocupada",
+      "comentario": "Comentario de prueba 004"
+    },
+    {
+      "id": 19,
+      "numero": 19,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 20,
+      "numero": 20,
+      "estado_id": 3,
+      "estado_nombre": "Sucia",
+      "comentario": "Comentario de prueba 005"
+    },
+    {
+      "id": 21,
+      "numero": 21,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 22,
+      "numero": 22,
+      "estado_id": 3,
+      "estado_nombre": "Sucia",
+      "comentario": "Comentario de prueba 005"
+    },
+    {
+      "id": 23,
+      "numero": 23,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 24,
+      "numero": 24,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 25,
+      "numero": 25,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 26,
+      "numero": 26,
+      "estado_id": 3,
+      "estado_nombre": "Sucia",
+      "comentario": "Comentario de prueba 009"
+    },
+    {
+      "id": 27,
+      "numero": 27,
+      "estado_id": 3,
+      "estado_nombre": "Sucia",
+      "comentario": "Comentario de prueba 08"
+    },
+    {
+      "id": 28,
+      "numero": 28,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 29,
+      "numero": 29,
+      "estado_id": 1,
+      "estado_nombre": "Limpia",
+      "comentario": " "
+    },
+    {
+      "id": 30,
+      "numero": 30,
+      "estado_id": 3,
+      "estado_nombre": "Sucia",
+      "comentario": "Comentario de prueba 078"
+    },
+    {
+      "id": 31,
+      "numero": 31,
+      "estado_id": 3,
+      "estado_nombre": "Sucia",
+      "comentario": "Comentario de prueba 0785"
+    },
+    {
+      "id": 32,
+      "numero": 32,
+      "estado_id": 4,
+      "estado_nombre": "No disponible",
+      "comentario": " "
+    }
+  ]
+}

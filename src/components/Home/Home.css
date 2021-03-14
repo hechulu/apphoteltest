@@ -1,0 +1,7 @@
+.home_main {
+  width: 320px;
+  height: 600px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
