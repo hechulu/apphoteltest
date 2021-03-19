@@ -1,0 +1,22 @@
+.Navbar-main {
+  position: fixed;
+  width: 100%;
+  right: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-evenly;
+
+  bottom: 0;
+}
+
+.Navbar-main a {
+  text-decoration: none;
+  height: 40px;
+  line-height: 40px;
+  width: 100%;
+  text-align: center;
+}
+
+.Navbar-main a.active {
+  border-top: solid 3px #1e90ff;
+}
